@@ -1,0 +1,23 @@
+html
+{	color: #444;
+	width: 40%;
+	margin: auto;
+	text-align: justify;
+	}
+p
+{line-height: 1.7}
+
+ul
+{line-height: 1.7}
+
+h2, h3
+{font-family: Times New Roman, Arial black, Arial, Verdana;
+ font-weight: bold;
+}
+.dicton
+{ text-align: center; 
+}
+
+.epilogue
+{ border: border-top;
+ }
